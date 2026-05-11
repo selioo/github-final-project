@@ -20,3 +20,7 @@ Output:
 
 \- simple interest = p\*t\*r
 
+
+
+Typo fixed
+
